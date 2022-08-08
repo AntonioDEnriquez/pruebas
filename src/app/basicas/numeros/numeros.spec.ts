@@ -6,7 +6,7 @@ describe('Pruebas de numeros', () => {
     });
 
     it('Debe de retornar el numero ingresado mas 1', () => {
-        const res = incrementar(90);
+        const res = incrementar(99);
         expect(res).toBe(100);
     });
 });

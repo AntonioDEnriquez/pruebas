@@ -46,7 +46,7 @@ describe('Pruebas de clases', () => {
 
     it('Debe de retornar 50 de hp si recibe 50 de daño', () => {
         // const jugador = new Jugador();
-        console.log('Esta prueba va a fallar');
+        // console.log('Esta prueba va a fallar');
 
         const resp = jugador.recibeDanio(50);
 
